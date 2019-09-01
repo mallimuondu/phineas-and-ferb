@@ -1,0 +1,24 @@
+body{
+	
+}
+
+.parag1{font-style: italic;
+		color: blue;
+		background-color: chartreuse;
+}
+
+
+
+.parg2{font-style: normal;
+	color: gold;
+	background-color: black;
+}
+
+
+
+.parg3{font-style: oblique;
+color: silver;
+	background-color: darkblue;
+}
+
+	

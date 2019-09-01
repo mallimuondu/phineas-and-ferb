@@ -1,0 +1,17 @@
+body{
+	
+}
+
+.parg1{font-style: italic;
+	color: white;
+	background-color: darkred;
+	
+}
+.parg2{font-style: normal;
+	color: green;
+	background-color: red;
+}
+.parg3{font-style: oblique;
+	color:pink;
+	background-color: yellow
+}
